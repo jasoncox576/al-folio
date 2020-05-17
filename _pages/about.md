@@ -1,16 +1,16 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Jason</strong> Cox
+description: Undergraduate Researcher, Turing Scholar at UT Austin
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Unit 209</p>
+    <p>2901 San Jacinto Boulevard</p>
+    <p>Austin, TX (78705)</p>
 
 news: true
 social: true
